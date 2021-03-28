@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+
 <!--
 **Cazeho/Cazeho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+💬 I'm a young french student engineer at TSE, with a focus on Network and IT.
+⚡ Languages: Python, C++, JAVA, Dart, C# and SQL
+
+🌎 web developer (HTML, CSS, JS), with a focus on backend (Django, Flutter, Flask, PHP)
+
+Don't forget to ⭐ a repos if you like it!
