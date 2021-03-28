@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 Don't forget to ⭐ a repos if you like it!
 
-![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+[![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=abserari&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/abserari)
