@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 💬 I'm a young french student engineer at TSE, with a focus on Network and IT.
+
 ⚡ Languages: Python, C++, JAVA, Dart, C# and SQL
 
 🌎 web developer (HTML, CSS, JS), with a focus on backend (Django, Flutter, Flask, PHP)
