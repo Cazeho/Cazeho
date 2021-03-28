@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 🌎 web developer (HTML, CSS, JS), with a focus on backend (Django, Flutter, Flask, PHP)
 
 Don't forget to ⭐ a repos if you like it!
+
+![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
